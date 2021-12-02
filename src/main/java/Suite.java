@@ -1,4 +1,6 @@
-
 public enum Suite {
-    HEART
+    HEARTS,
+    DIAMONDS,
+    CLUBS,
+    SPADES
 }
